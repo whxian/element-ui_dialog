@@ -1,7 +1,8 @@
 # element-ui_dialog
-封装element-ui的dialog组件
+##封装element-ui的dialog组件
 
-封装组件：
+####封装组件：
+```
 <template>
     <div class="dialog-container">
         <el-dialog
@@ -34,8 +35,10 @@
         }
     };
 </script>
+```
 
-使用：
+####使用：
+```
 <template>
     <div class="container">
         <z-dialog :show.sync="show"></z-dialog>
@@ -62,3 +65,4 @@
         }
     };
 </script>
+```
