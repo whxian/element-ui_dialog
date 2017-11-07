@@ -1,7 +1,7 @@
 # element-ui_dialog
-##封装element-ui的dialog组件
+## 封装element-ui的dialog组件
 
-####封装组件：
+#### 封装组件：
 ```
 <template>
     <div class="dialog-container">
@@ -37,7 +37,7 @@
 </script>
 ```
 
-####使用：
+#### 使用：
 ```
 <template>
     <div class="container">
