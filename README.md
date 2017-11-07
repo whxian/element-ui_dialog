@@ -1,5 +1,4 @@
-# element-ui_dialog
-## 封装element-ui的dialog组件
+# 封装element-ui的dialog组件
 
 #### 封装组件：
 ```
